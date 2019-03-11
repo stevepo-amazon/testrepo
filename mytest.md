@@ -1,6 +1,10 @@
 <!-- test comment -->
-* Heading 1
+# Heading 1
 
-** heading 2
+just text
+
+[//]: # (This may be the most platform independent comment)
+
+## heading 2
 
 some text
